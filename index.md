@@ -1,26 +1,46 @@
----
-layout: default
----
+# EXPERIENCE 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+### Infosys Systems 
+Role: Software developer
 
-There should be whitespace between paragraphs.
+Designed system solutions by analyzing system performance standards and increased performance by 29 percent. Planned, tracked and managed deliverables on short term sprints and long term software deployements.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Epam Systems
+Role: Software development intern
 
-# Header 1
+Worked with Java and its frameworks for implementing various backend functionalities. Collaborated with team
+members using version control systems such as Git to organize modifications and assign tasks.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Servicenow
+Role: Software development intern
 
-## Header 2
+Worked on Servicenow platform’s script debugger and developed a feature “Inline variables value preview during
+debugging” functionality individually. Utilized Intellij and Code mirror as a development environment
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# PROJECTS
 
-### Header 3
+### Predicting Obesity Levels From Various Risk Factor 
+Tech stack: Python, Jupyter notebook, predictive algorithms  
+Estimation of obesity levels based on eating habits and physical condition using classification ans regression algorithms.
+
+### Incredible India
+Tech stack:Java, Android studio, XML, Google Cloud Platform, Firebase
+Built an app where users can view tangible and intangible heritages of India. Implemented ”Google cloud translation
+API” to translate app languages dynamically and ”Google cloud Text-to-Speech API” so as to listen the app data.
+
+
+### Servicenow Digital certification management
+Tech stack:Javascript, Servicenow platform, Solidity, Node JS
+Built an application which is an integration of ServiceNow platform with Blockchain which helps companies/recruiters to
+check the legitimacy of certificates produced by students.
+
+### Care Zone - Close to you
+Tech stack:Java, Android studio, XML, Firebase
+Built an android app where user can search for nearby hospitals manually or using their current location. Users can also
+search for emergency or first aid YouTube videos.
+
+
 
 ```js
 // Javascript code with syntax highlighting.
